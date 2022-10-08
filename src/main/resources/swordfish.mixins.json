@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "gibbongoop.swordfish.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "swordfish.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
